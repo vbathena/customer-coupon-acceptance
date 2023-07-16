@@ -1,8 +1,8 @@
-# Customer In-Vehicle Coupon Acceptance Project
-> This repository contains the Customer In-Vehicle Coupon Acceptance dataset, which provides information about different driving scenarios, passenger attributes, contextual attributes and coupon attributes. The dataset aims to explore the characteristics of passengers who accept various types of coupons and provide insights for coupon acceptance recommendation.
+# Customer Coupon Acceptance Project
+> This repository contains the Customer Coupon Acceptance dataset, which provides information about different driving scenarios, passenger attributes, contextual attributes and coupon attributes. The dataset aims to explore the characteristics of passengers who accept various types of coupons and provide insights for coupon acceptance recommendation.
 
 ## General Information
-- Dataset analysis work completed in Jupyter Notebook. Link here [Jupyter Notebook](customer_coupon_acceptance.ipynb)
+- Dataset analysis work completed in Jupyter Notebook. Link here ([customer_coupon_acceptance.ipynb](https://github.com/vbathena/customer-coupon-acceptance/blob/main/customer_coupon_acceptance.ipynb))
 - Dataset in *data* folder
 - Images in *images* folder
 
@@ -65,10 +65,8 @@ These findings provide some insights into driver preferences for different types
 - Pandas
 - Numpy
 
-
 ## Future Work
 Future work could focus on expanding the dataset to include more drivers and coupons. Additionally, explore other factors that influence the acceptance of coupons, such as the time of day, the weather, and the driver's mood.
-
 
 ## Conclusion
 Overall, the findings suggest that coupon acceptance is influenced by a number of factors, including the type of coupon, the driver's demographics, and the weather. Based on these findings, businesses can use the insights from this dataset to improve their coupon campaigns in a number of ways. For example, businesses can target their coupon offers to specific times of day, days of the week, or weather conditions. Businesses can also use the data to identify drivers who are more likely to be receptive to coupons and target those drivers with specific offers. More research is needed to better understand these relationships and to develop more effective coupon recommendation strategies for businesses to improve their coupon campaigns and increase the likelihood of acceptance.
